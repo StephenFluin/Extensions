@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<overlay id="sample" 
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script type="application/x-javascript" src="chrome://picgrab/content/picgrab.js" />
+	<statusbar id="status-bar">
+		<statusbarpanel id="main-panel" label="PicGrab" onclick="picgrab_process()" />
+	</statusbar>
+</overlay>

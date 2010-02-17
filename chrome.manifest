@@ -1,0 +1,3 @@
+content     picgrab    chrome/content/
+
+overlay chrome://browser/content/browser.xul chrome://picgrab/content/statusbar.xul
